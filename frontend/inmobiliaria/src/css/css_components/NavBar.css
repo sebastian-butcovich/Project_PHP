@@ -1,0 +1,14 @@
+.NavBar{
+    display: flex;
+    padding: 2vh;
+    justify-content: center;
+    align-items: center;
+    border-top:2px solid white;
+    border-bottom:2px solid white;
+    margin-bottom: 10px;
+}
+.NavBar-Link{
+    margin: 0 30px;
+    color:white;
+    font-size:20px;
+}
